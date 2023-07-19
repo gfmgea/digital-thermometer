@@ -5,10 +5,10 @@ Esse projeto tem como objetivo construir através de um microcontrolador PIC 16F
 1. Componentes LM35 e/ou Termistor como sensor de temperatura e dois Displays de 7 Segmentos para informar a temperatura em graus Célsius;
 
 2. O projeto possui uma indicação visual com LEDs coloridos para informar níveis de temperatura, conforme a amostragem abaixo:
-  2.1. Abaixo de 25°C, LED azul acende;
-  2.2. Entre 25°C até 28°C, LED verde acende;
-  2.3. Entre 29 e 31°C, LED amarelo acende;
-  2.4. Maior que 31°C, LED vermelho acende e um buzzer emitirá um som com frequência de 1kHz.
+2.1. Abaixo de 25°C, LED azul acende;
+2.2. Entre 25°C até 28°C, LED verde acende;
+2.3. Entre 29 e 31°C, LED amarelo acende;
+2.4. Maior que 31°C, LED vermelho acende e um buzzer emitirá um som com frequência de 1kHz.
 
 3. O projeto possui uma interrupção externa RB0/INT para ligar/desligar o buzzer.
 
@@ -35,10 +35,10 @@ This project aims to build, through a PIC 16F877A microcontroller, a Digital The
 1. LM35 and/or Thermistor components as a temperature sensor and two 7-segment displays to inform the temperature in degrees Celsius;
 
 2. The project has a visual indication with colored LEDs to inform temperature levels, as shown below:
-   2.1. Below 25°C, blue LED lights up;
-   2.2. Between 25°C to 28°C, green LED lights up;
-   2.3. Between 29 and 31°C, yellow LED lights up;
-   2.4. Higher than 31°C, red LED lights up and a buzzer will emit a sound with a frequency of 1kHz.
+2.1. Below 25°C, blue LED lights up;
+2.2. Between 25°C to 28°C, green LED lights up;
+2.3. Between 29 and 31°C, yellow LED lights up;
+2.4. Higher than 31°C, red LED lights up and a buzzer will emit a sound with a frequency of 1kHz.
 
 3. The project has an external interrupt RB0/INT to turn the buzzer on/off.
 
